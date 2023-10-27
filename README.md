@@ -9,14 +9,15 @@ This application provides a way to record this information and to access these i
 #### USECASE DIAGRAM:
 ![image](https://github.com/Vanitha-SM/LAB-4-Hospital-Management/assets/119557985/5d316dba-ef7a-4f0a-af10-362276942310)
 #### SEQUENCE DIAGRAM:
-![image](https://github.com/Vanitha-SM/LAB-4-Hospital-Management/assets/119557985/11a87740-ca28-4eb9-88e9-62d3dc9880f5)
+![image](https://github.com/Vanitha-SM/LAB-4-Hospital-Management/assets/119557985/e81066b0-75b2-4aa6-b6d3-9e5fd93914b5)
+
 #### STATECHART DIAGRAM:
 ![image](https://github.com/Vanitha-SM/LAB-4-Hospital-Management/assets/119557985/0ce64488-e408-42b3-a389-2a900d8666d3)
 #### CLASS DIAGRAM:
 ![image](https://github.com/Vanitha-SM/LAB-4-Hospital-Management/assets/119557985/c9a54b64-aff1-4e5f-90f3-30a98fb24477)
 
 #### ACTIVITY DIAGRAM:
-![image](https://github.com/Vanitha-SM/LAB-4-Hospital-Management/assets/119557985/baab382c-0a64-4e6f-a61c-9298a1c7a4ec)
+![image](https://github.com/Vanitha-SM/LAB-4-Hospital-Management/assets/119557985/f03a6d4f-4d28-441a-9eb4-13a6fe0167d2)
 
 #### COMMUNICATION DIAGRAM:
 ![image](https://github.com/Vanitha-SM/LAB-4-Hospital-Management/assets/119557985/699792e1-2666-4a1a-8cc4-270622395f7b)
